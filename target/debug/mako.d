@@ -1,0 +1,1 @@
+C:\Users\Mertisyoo\Downloads\Mako\target\debug\mako.exe: C:\Users\Mertisyoo\Downloads\Mako\src\ast.rs C:\Users\Mertisyoo\Downloads\Mako\src\lexer.rs C:\Users\Mertisyoo\Downloads\Mako\src\main.rs C:\Users\Mertisyoo\Downloads\Mako\src\parser.rs C:\Users\Mertisyoo\Downloads\Mako\src\runtime.rs C:\Users\Mertisyoo\Downloads\Mako\src\token.rs
